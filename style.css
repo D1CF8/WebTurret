@@ -1,0 +1,19 @@
+body{
+    margin: 0%;
+    background: #5b5b5b;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+.logo{
+    margin: 2px;
+    border-radius: 30px;
+    margin-top: 800px;
+}
+font{
+    color: #319dff;
+    cursor: pointer;
+    font-style: 'Vipnagorgialla';
+}
